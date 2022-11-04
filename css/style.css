@@ -1,0 +1,20 @@
+.navo{
+    /* display: flex; */
+    text-decoration: none;
+    text-align: center;
+    margin: 20px;
+    justify-content: center;
+    
+    
+    }
+
+    .navo ul{
+        display: flex;
+        text-decoration: none;
+    }
+
+    .navo ul li{
+        text-decoration: none;
+        margin: 40px;
+        color: #000;
+    }
